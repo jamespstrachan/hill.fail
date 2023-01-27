@@ -1,0 +1,10 @@
+collections:
+  fails:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "fails"
+    values:
+      layout: "default"
